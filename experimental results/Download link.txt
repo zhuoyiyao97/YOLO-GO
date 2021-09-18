@@ -1,0 +1,14 @@
+Due to the limitation of the upload file size, we will send the file to Baidu Netdisk.
+
+Link: https://pan.baidu.com/s/1GdxE6i64Yt4EFhtJe96GjQ 
+Extraction code: 8s1f
+
+experimental results
+      --Tencent_Go
+          --errors
+          --results
+      --trained_networks
+      --YOLO_GO
+          --after_model_ensemble
+          --GO_PIECEX1
+          --GO_PIECEX2

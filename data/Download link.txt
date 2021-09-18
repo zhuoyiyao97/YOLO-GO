@@ -1,0 +1,11 @@
+Due to the limitation of the upload file size, we will send the file to Baidu Netdisk.
+
+Link: https://pan.baidu.com/s/1ZMuErQ_sc4RgxOf58dAj8g
+Extraction code: ta76
+
+data
+      --test
+      --train_val
+          --images
+          --Annotation
+          --other
